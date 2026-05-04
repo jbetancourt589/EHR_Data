@@ -1,0 +1,16 @@
+.idea/
+# Ignore all data files
+Raw Data/
+Compressed Raw Data/
+
+# Ignore outputs
+output.json
+output.jsonl
+output*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
